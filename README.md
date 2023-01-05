@@ -1,1 +1,2 @@
-# high_frequency_design
+#高频电子线路课设
+# 调幅电路，AM调幅，可以正常运行
